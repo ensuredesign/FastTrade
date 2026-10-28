@@ -1,0 +1,3 @@
+"""
+FastTrade API Routes Package.
+"""

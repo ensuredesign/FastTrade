@@ -1,0 +1,3 @@
+"""
+FastTrade FastAPI Backend Package.
+"""
