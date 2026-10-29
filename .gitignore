@@ -74,3 +74,22 @@ data/raw/*.csv
 data/processed/*.parquet
 python_packages/
 *.db
+
+# Demo video local build artifacts
+demo-video/node_modules/
+demo-video/.remotion/
+_remotion_scaffold/
+demo-video/out/
+demo-video/raw_recordings/
+FastTrade_Hackathon_Demo_2Min.mp4
+FastTrade_Thumbnail_Square.svg
+FastTrade_Thumbnail_Square_Branded.png
+FastTrade_Logo_Square_3D.png
+FastTrade_Logo_Square_3D_Branded.png
+FastTrade_Thumbnail_3x2.svg
+FastTrade_Thumbnail_3x2_Branded.png
+FastTrade_Thumbnail_3x2_3D_Branded.png
+FastTrade_Logo_3x2_3D.png
+
+# Demo video project folder (local production assets)
+demo-video/
